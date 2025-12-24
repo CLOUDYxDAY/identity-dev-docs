@@ -1,5 +1,5 @@
 ---
-title: Support
+title: Support for Cloudy Day
 sidenav:
   - text: FAQ
     href: "#frequently-asked-questions"
